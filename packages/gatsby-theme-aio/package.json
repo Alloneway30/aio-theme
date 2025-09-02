@@ -51,13 +51,13 @@
   },
   "devDependencies": {
     "dotenv": "^16.0.2",
-    "gatsby": "^4.22.0",
+    "gatsby": "^5.15.0",
     "gatsby-cli": "^4.23.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "peerDependencies": {
-    "gatsby": "^4.22.0",
+    "gatsby": "^5.15.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
@@ -138,7 +138,7 @@
     "prop-types": "^15.8.1",
     "react-helmet": "^6.1.0",
     "react-id-generator": "^3.0.2",
-    "redoc": "2.0.0",
+    "redoc": "2.4.0",
     "redoc-cli": "^0.13.20",
     "rehype-slug-custom-id": "^1.1.0",
     "request": "^2.88.2",
